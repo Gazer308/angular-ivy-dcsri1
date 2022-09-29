@@ -1,0 +1,18 @@
+table {
+  background-color: beige;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 6px;
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+
+td {
+  vertical-align: bottom;
+  border-bottom: 1px solid gray;
+}
